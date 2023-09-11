@@ -1,6 +1,6 @@
 # Kaggle_Notebook_Ex
 
-## <b style = "color : Blue">!! 목표 !!</b>
+## <b style = "color : blue">!! 목표 !!</b>
 ### Kaggle Notebook 에서 Expert 달성
 
 - 1. 필사를 통한 코드 연습
