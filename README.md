@@ -1,6 +1,6 @@
 # Kaggle_Notebook_Ex
 
-##!! 목표 !!
+## !! 목표 !!
 ### Kaggle Notebook 에서 Expert 달성
 
 - 1. 필사를 통한 코드 연습
